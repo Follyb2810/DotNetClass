@@ -1,0 +1,14 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\MyBeginnerProject\bin\Debug\net8.0\MyBeginnerProject.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\MyBeginnerProject\bin\Debug\net8.0\MyBeginnerProject.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\MyBeginnerProject\bin\Debug\net8.0\MyBeginnerProject.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\MyBeginnerProject\bin\Debug\net8.0\MyBeginnerProject.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\MyBeginnerProject\bin\Debug\net8.0\MyBeginnerProject.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\MyBeginnerProject\obj\Debug\net8.0\MyBeginnerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\MyBeginnerProject\obj\Debug\net8.0\MyBeginnerProject.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\MyBeginnerProject\obj\Debug\net8.0\MyBeginnerProject.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\MyBeginnerProject\obj\Debug\net8.0\MyBeginnerProject.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\MyBeginnerProject\obj\Debug\net8.0\MyBeginnerProject.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\MyBeginnerProject\obj\Debug\net8.0\refint\MyBeginnerProject.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\MyBeginnerProject\obj\Debug\net8.0\MyBeginnerProject.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\MyBeginnerProject\obj\Debug\net8.0\MyBeginnerProject.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\MyBeginnerProject\obj\Debug\net8.0\ref\MyBeginnerProject.dll

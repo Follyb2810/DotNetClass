@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\obj\Debug\net8.0\nslearn-dotnet-files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\obj\Debug\net8.0\nslearn-dotnet-files.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\obj\Debug\net8.0\nslearn-dotnet-files.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\obj\Debug\net8.0\nslearn-dotnet-files.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\obj\Debug\net8.0\nslearn-dotnet-files.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\bin\Debug\net8.0\nslearn-dotnet-files.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\bin\Debug\net8.0\nslearn-dotnet-files.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\bin\Debug\net8.0\nslearn-dotnet-files.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\bin\Debug\net8.0\nslearn-dotnet-files.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\bin\Debug\net8.0\nslearn-dotnet-files.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\obj\Debug\net8.0\nslearn-dotnet-files.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\obj\Debug\net8.0\refint\nslearn-dotnet-files.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\obj\Debug\net8.0\nslearn-dotnet-files.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\obj\Debug\net8.0\nslearn-dotnet-files.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\mslearn-dotnet-files\nslearn-dotnet-files\obj\Debug\net8.0\ref\nslearn-dotnet-files.dll

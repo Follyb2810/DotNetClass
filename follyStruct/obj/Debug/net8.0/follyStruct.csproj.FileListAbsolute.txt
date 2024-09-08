@@ -1,0 +1,14 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\follyStruct\bin\Debug\net8.0\follyStruct.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\follyStruct\bin\Debug\net8.0\follyStruct.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\follyStruct\bin\Debug\net8.0\follyStruct.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\follyStruct\bin\Debug\net8.0\follyStruct.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\follyStruct\bin\Debug\net8.0\follyStruct.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\follyStruct\obj\Debug\net8.0\follyStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\follyStruct\obj\Debug\net8.0\follyStruct.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\follyStruct\obj\Debug\net8.0\follyStruct.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\follyStruct\obj\Debug\net8.0\follyStruct.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\follyStruct\obj\Debug\net8.0\follyStruct.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\follyStruct\obj\Debug\net8.0\refint\follyStruct.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\follyStruct\obj\Debug\net8.0\follyStruct.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\follyStruct\obj\Debug\net8.0\follyStruct.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\follyStruct\obj\Debug\net8.0\ref\follyStruct.dll

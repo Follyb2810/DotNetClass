@@ -1,0 +1,14 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePro\obj\Debug\net8.0\filePro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePro\obj\Debug\net8.0\filePro.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePro\obj\Debug\net8.0\filePro.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePro\obj\Debug\net8.0\filePro.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePro\bin\Debug\net8.0\filePro.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePro\bin\Debug\net8.0\filePro.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePro\bin\Debug\net8.0\filePro.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePro\bin\Debug\net8.0\filePro.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePro\bin\Debug\net8.0\filePro.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePro\obj\Debug\net8.0\filePro.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePro\obj\Debug\net8.0\refint\filePro.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePro\obj\Debug\net8.0\filePro.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePro\obj\Debug\net8.0\filePro.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePro\obj\Debug\net8.0\ref\filePro.dll

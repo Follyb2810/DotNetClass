@@ -1,0 +1,14 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePath\obj\Debug\net8.0\filePath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePath\obj\Debug\net8.0\filePath.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePath\obj\Debug\net8.0\filePath.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePath\obj\Debug\net8.0\filePath.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePath\bin\Debug\net8.0\filePath.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePath\bin\Debug\net8.0\filePath.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePath\bin\Debug\net8.0\filePath.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePath\bin\Debug\net8.0\filePath.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePath\bin\Debug\net8.0\filePath.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePath\obj\Debug\net8.0\filePath.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePath\obj\Debug\net8.0\refint\filePath.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePath\obj\Debug\net8.0\filePath.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePath\obj\Debug\net8.0\filePath.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\filePath\obj\Debug\net8.0\ref\filePath.dll

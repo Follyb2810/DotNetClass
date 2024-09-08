@@ -1,0 +1,14 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\Babs\bin\Debug\net8.0\Babs.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\Babs\bin\Debug\net8.0\Babs.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\Babs\bin\Debug\net8.0\Babs.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\Babs\bin\Debug\net8.0\Babs.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\Babs\bin\Debug\net8.0\Babs.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\Babs\obj\Debug\net8.0\Babs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\Babs\obj\Debug\net8.0\Babs.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\Babs\obj\Debug\net8.0\Babs.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\Babs\obj\Debug\net8.0\Babs.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\Babs\obj\Debug\net8.0\Babs.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\Babs\obj\Debug\net8.0\refint\Babs.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\Babs\obj\Debug\net8.0\Babs.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\Babs\obj\Debug\net8.0\Babs.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\Babs\obj\Debug\net8.0\ref\Babs.dll

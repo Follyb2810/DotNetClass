@@ -1,0 +1,14 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\WorkingString\bin\Debug\net8.0\WorkingString.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\WorkingString\bin\Debug\net8.0\WorkingString.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\WorkingString\bin\Debug\net8.0\WorkingString.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\WorkingString\bin\Debug\net8.0\WorkingString.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\WorkingString\bin\Debug\net8.0\WorkingString.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\WorkingString\obj\Debug\net8.0\WorkingString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\WorkingString\obj\Debug\net8.0\WorkingString.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\WorkingString\obj\Debug\net8.0\WorkingString.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\WorkingString\obj\Debug\net8.0\WorkingString.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\WorkingString\obj\Debug\net8.0\WorkingString.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\WorkingString\obj\Debug\net8.0\refint\WorkingString.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\WorkingString\obj\Debug\net8.0\WorkingString.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\WorkingString\obj\Debug\net8.0\WorkingString.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\WorkingString\obj\Debug\net8.0\ref\WorkingString.dll

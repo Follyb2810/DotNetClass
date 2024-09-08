@@ -1,0 +1,14 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\CastFolly\obj\Debug\net8.0\CastFolly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\CastFolly\obj\Debug\net8.0\CastFolly.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\CastFolly\obj\Debug\net8.0\CastFolly.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\CastFolly\obj\Debug\net8.0\CastFolly.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\CastFolly\bin\Debug\net8.0\CastFolly.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\CastFolly\bin\Debug\net8.0\CastFolly.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\CastFolly\bin\Debug\net8.0\CastFolly.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\CastFolly\bin\Debug\net8.0\CastFolly.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\CastFolly\bin\Debug\net8.0\CastFolly.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\CastFolly\obj\Debug\net8.0\CastFolly.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\CastFolly\obj\Debug\net8.0\refint\CastFolly.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\CastFolly\obj\Debug\net8.0\CastFolly.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\CastFolly\obj\Debug\net8.0\CastFolly.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\CastFolly\obj\Debug\net8.0\ref\CastFolly.dll
