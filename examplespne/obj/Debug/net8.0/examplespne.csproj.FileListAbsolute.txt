@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\bin\Debug\net8.0\examplespne.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\bin\Debug\net8.0\examplespne.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\bin\Debug\net8.0\examplespne.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\bin\Debug\net8.0\examplespne.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\bin\Debug\net8.0\examplespne.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\obj\Debug\net8.0\examplespne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\obj\Debug\net8.0\examplespne.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\obj\Debug\net8.0\examplespne.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\obj\Debug\net8.0\examplespne.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\obj\Debug\net8.0\examplespne.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\obj\Debug\net8.0\examplespne.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\obj\Debug\net8.0\refint\examplespne.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\obj\Debug\net8.0\examplespne.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\obj\Debug\net8.0\examplespne.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\examplespne\obj\Debug\net8.0\ref\examplespne.dll

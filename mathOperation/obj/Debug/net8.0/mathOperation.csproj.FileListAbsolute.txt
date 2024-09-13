@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\bin\Debug\net8.0\mathOperation.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\bin\Debug\net8.0\mathOperation.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\bin\Debug\net8.0\mathOperation.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\bin\Debug\net8.0\mathOperation.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\bin\Debug\net8.0\mathOperation.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\obj\Debug\net8.0\mathOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\obj\Debug\net8.0\mathOperation.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\obj\Debug\net8.0\mathOperation.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\obj\Debug\net8.0\mathOperation.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\obj\Debug\net8.0\mathOperation.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\obj\Debug\net8.0\mathOperation.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\obj\Debug\net8.0\refint\mathOperation.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\obj\Debug\net8.0\mathOperation.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\obj\Debug\net8.0\mathOperation.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\mathOperation\obj\Debug\net8.0\ref\mathOperation.dll
