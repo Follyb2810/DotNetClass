@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\bin\Debug\net8.0\ErrorHandling.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\bin\Debug\net8.0\ErrorHandling.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\bin\Debug\net8.0\ErrorHandling.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\bin\Debug\net8.0\ErrorHandling.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\bin\Debug\net8.0\ErrorHandling.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\obj\Debug\net8.0\ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\obj\Debug\net8.0\ErrorHandling.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\obj\Debug\net8.0\ErrorHandling.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\obj\Debug\net8.0\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\obj\Debug\net8.0\ErrorHandling.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\obj\Debug\net8.0\ErrorHandling.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\obj\Debug\net8.0\refint\ErrorHandling.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\obj\Debug\net8.0\ErrorHandling.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\obj\Debug\net8.0\ErrorHandling.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\ErrorHandling\obj\Debug\net8.0\ref\ErrorHandling.dll

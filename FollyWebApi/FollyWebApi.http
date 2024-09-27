@@ -1,0 +1,47 @@
+@FollyWebApi_HostAddress = http://localhost:5225
+
+GET {{FollyWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{FollyWebApi_HostAddress}}/pizza/
+Accept: application/json
+
+###
+GET {{FollyWebApi_HostAddress}}/pizza/1
+Accept: application/json
+
+###
+GET {{FollyWebApi_HostAddress}}/pizza/5
+Accept: application/json
+
+###
+POST {{FollyWebApi_HostAddress}}/pizza/
+Content-Type: application/json
+
+{
+    "name": "Hawaii",
+    "isGlutenFree": false
+}
+
+###
+PUT {{FollyWebApi_HostAddress}}/pizza/3
+Content-Type: application/json
+
+{
+    "id": 3,
+    "name": "Hawaiif",
+    "age": 8,
+    "isGlutenFree": false
+}
+
+###
+GET {{FollyWebApi_HostAddress}}/pizza/3
+Accept: application/json
+
+###
+GET {{FollyWebApi_HostAddress}}/pizza/
+Accept: application/json
+
+###

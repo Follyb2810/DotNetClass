@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\obj\Debug\net8.0\White_space.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\obj\Debug\net8.0\White_space.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\obj\Debug\net8.0\White_space.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\obj\Debug\net8.0\White_space.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\obj\Debug\net8.0\White_space.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\bin\Debug\net8.0\White_space.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\bin\Debug\net8.0\White_space.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\bin\Debug\net8.0\White_space.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\bin\Debug\net8.0\White_space.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\bin\Debug\net8.0\White_space.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\obj\Debug\net8.0\White_space.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\obj\Debug\net8.0\refint\White_space.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\obj\Debug\net8.0\White_space.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\obj\Debug\net8.0\White_space.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\White_space\obj\Debug\net8.0\ref\White_space.dll

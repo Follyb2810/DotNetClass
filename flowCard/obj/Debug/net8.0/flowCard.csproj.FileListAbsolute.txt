@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\bin\Debug\net8.0\flowCard.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\bin\Debug\net8.0\flowCard.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\bin\Debug\net8.0\flowCard.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\bin\Debug\net8.0\flowCard.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\bin\Debug\net8.0\flowCard.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\obj\Debug\net8.0\flowCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\obj\Debug\net8.0\flowCard.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\obj\Debug\net8.0\flowCard.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\obj\Debug\net8.0\flowCard.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\obj\Debug\net8.0\flowCard.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\obj\Debug\net8.0\flowCard.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\obj\Debug\net8.0\refint\flowCard.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\obj\Debug\net8.0\flowCard.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\obj\Debug\net8.0\flowCard.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\flowCard\obj\Debug\net8.0\ref\flowCard.dll

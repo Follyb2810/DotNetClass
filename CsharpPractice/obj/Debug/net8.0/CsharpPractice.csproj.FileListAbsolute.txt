@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\bin\Debug\net8.0\CsharpPractice.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\bin\Debug\net8.0\CsharpPractice.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\bin\Debug\net8.0\CsharpPractice.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\bin\Debug\net8.0\CsharpPractice.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\bin\Debug\net8.0\CsharpPractice.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\obj\Debug\net8.0\CsharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\obj\Debug\net8.0\CsharpPractice.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\obj\Debug\net8.0\CsharpPractice.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\obj\Debug\net8.0\CsharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\obj\Debug\net8.0\CsharpPractice.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\obj\Debug\net8.0\CsharpPractice.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\obj\Debug\net8.0\refint\CsharpPractice.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\obj\Debug\net8.0\CsharpPractice.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\obj\Debug\net8.0\CsharpPractice.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\CsharpPractice\obj\Debug\net8.0\ref\CsharpPractice.dll

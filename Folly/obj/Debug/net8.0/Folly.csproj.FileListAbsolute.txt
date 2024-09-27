@@ -1,0 +1,15 @@
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\bin\Debug\net8.0\Folly.exe
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\bin\Debug\net8.0\Folly.deps.json
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\bin\Debug\net8.0\Folly.runtimeconfig.json
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\bin\Debug\net8.0\Folly.dll
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\bin\Debug\net8.0\Folly.pdb
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\obj\Debug\net8.0\Folly.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\obj\Debug\net8.0\Folly.AssemblyInfoInputs.cache
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\obj\Debug\net8.0\Folly.AssemblyInfo.cs
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\obj\Debug\net8.0\Folly.csproj.CoreCompileInputs.cache
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\obj\Debug\net8.0\Folly.sourcelink.json
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\obj\Debug\net8.0\Folly.dll
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\obj\Debug\net8.0\refint\Folly.dll
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\obj\Debug\net8.0\Folly.pdb
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\obj\Debug\net8.0\Folly.genruntimeconfig.cache
+c:\Users\follyb\Desktop\folly docs\CodeLine\Folly\obj\Debug\net8.0\ref\Folly.dll

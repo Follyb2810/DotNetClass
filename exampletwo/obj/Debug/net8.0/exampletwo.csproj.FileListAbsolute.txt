@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\obj\Debug\net8.0\exampletwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\obj\Debug\net8.0\exampletwo.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\obj\Debug\net8.0\exampletwo.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\obj\Debug\net8.0\exampletwo.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\obj\Debug\net8.0\exampletwo.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\bin\Debug\net8.0\exampletwo.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\bin\Debug\net8.0\exampletwo.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\bin\Debug\net8.0\exampletwo.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\bin\Debug\net8.0\exampletwo.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\bin\Debug\net8.0\exampletwo.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\obj\Debug\net8.0\exampletwo.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\obj\Debug\net8.0\refint\exampletwo.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\obj\Debug\net8.0\exampletwo.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\obj\Debug\net8.0\exampletwo.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\exampletwo\obj\Debug\net8.0\ref\exampletwo.dll

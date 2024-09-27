@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\bin\Debug\net8.0\Dimension.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\bin\Debug\net8.0\Dimension.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\bin\Debug\net8.0\Dimension.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\bin\Debug\net8.0\Dimension.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\bin\Debug\net8.0\Dimension.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\obj\Debug\net8.0\Dimension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\obj\Debug\net8.0\Dimension.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\obj\Debug\net8.0\Dimension.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\obj\Debug\net8.0\Dimension.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\obj\Debug\net8.0\Dimension.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\obj\Debug\net8.0\Dimension.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\obj\Debug\net8.0\refint\Dimension.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\obj\Debug\net8.0\Dimension.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\obj\Debug\net8.0\Dimension.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\Dimension\obj\Debug\net8.0\ref\Dimension.dll

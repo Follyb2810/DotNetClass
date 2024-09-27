@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\obj\Debug\net8.0\ZooPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\obj\Debug\net8.0\ZooPoo.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\obj\Debug\net8.0\ZooPoo.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\obj\Debug\net8.0\ZooPoo.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\obj\Debug\net8.0\ZooPoo.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\bin\Debug\net8.0\ZooPoo.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\bin\Debug\net8.0\ZooPoo.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\bin\Debug\net8.0\ZooPoo.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\bin\Debug\net8.0\ZooPoo.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\bin\Debug\net8.0\ZooPoo.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\obj\Debug\net8.0\ZooPoo.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\obj\Debug\net8.0\refint\ZooPoo.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\obj\Debug\net8.0\ZooPoo.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\obj\Debug\net8.0\ZooPoo.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\ZooPoo\obj\Debug\net8.0\ref\ZooPoo.dll

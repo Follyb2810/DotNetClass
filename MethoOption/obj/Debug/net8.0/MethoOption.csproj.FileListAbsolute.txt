@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\obj\Debug\net8.0\MethoOption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\obj\Debug\net8.0\MethoOption.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\obj\Debug\net8.0\MethoOption.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\obj\Debug\net8.0\MethoOption.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\obj\Debug\net8.0\MethoOption.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\bin\Debug\net8.0\MethoOption.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\bin\Debug\net8.0\MethoOption.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\bin\Debug\net8.0\MethoOption.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\bin\Debug\net8.0\MethoOption.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\bin\Debug\net8.0\MethoOption.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\obj\Debug\net8.0\MethoOption.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\obj\Debug\net8.0\refint\MethoOption.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\obj\Debug\net8.0\MethoOption.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\obj\Debug\net8.0\MethoOption.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\MethoOption\obj\Debug\net8.0\ref\MethoOption.dll

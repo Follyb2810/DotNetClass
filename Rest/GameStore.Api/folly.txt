@@ -1,0 +1,143 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+
+public class Game
+{
+    public int Id { get; set; }
+
+    [Required(ErrorMessage = "Name is required.")]
+    [StringLength(100, MinimumLength = 3, ErrorMessage = "Name must be between 3 and 100 characters.")]
+    public string Name { get; set; }
+
+    [Required]
+    [Range(0, 1000, ErrorMessage = "Price must be between 0 and 1000.")]
+    public decimal Price { get; set; }
+
+    [Url(ErrorMessage = "Invalid URL.")]
+    public string ImageUri { get; set; }
+}
+using System;
+using System.ComponentModel.DataAnnotations;
+
+var game = new Game
+{
+    Name = "Fo",            // Invalid: Too short
+    Price = 1500,           // Invalid: Outside the specified range (0-1000)
+    ImageUri = "invalid-url" // Invalid: Not a valid URL
+};
+
+// Validation results container
+var validationResults = new List<ValidationResult>();
+
+// Context for validation (optional, but helps track context like the object type)
+var validationContext = new ValidationContext(game);
+
+// Perform the validation manually
+bool isValid = Validator.TryValidateObject(game, validationContext, validationResults, validateAllProperties: true);
+
+// Check if validation passed
+if (!isValid)
+{
+    // Handle the validation errors
+    foreach (var validationResult in validationResults)
+    {
+        Console.WriteLine(validationResult.ErrorMessage);
+    }
+}
+else
+{
+    Console.WriteLine("Game is valid!");
+}
+app.MapPost("/games", (Game game) =>
+{
+    var validationResults = new List<ValidationResult>();
+    var validationContext = new ValidationContext(game);
+    bool isValid = Validator.TryValidateObject(game, validationContext, validationResults, true);
+
+    if (!isValid)
+    {
+        return Results.BadRequest(validationResults.Select(vr => vr.ErrorMessage));
+    }
+
+    // If validation passes, process the game object
+    // Add to database or list
+    return Results.Ok(game);
+});
+app.MapPost("/games", (Game game) =>
+{
+    var validationResults = new List<ValidationResult>();
+    var validationContext = new ValidationContext(game);
+    bool isValid = Validator.TryValidateObject(game, validationContext, validationResults, true);
+
+    // Custom logic (e.g., make sure Price is not zero)
+    if (game.Price == 0)
+    {
+        validationResults.Add(new ValidationResult("Price cannot be zero", new[] { nameof(game.Price) }));
+        isValid = false;
+    }
+
+    if (!isValid)
+    {
+        return Results.BadRequest(validationResults.Select(vr => vr.ErrorMessage));
+    }
+
+    return Results.Ok(game);
+});
+using System.ComponentModel.DataAnnotations;
+
+public class Game
+{
+    public int Id { get; set; }
+
+    [Required(ErrorMessage = "Name is required.")]
+    [StringLength(100, MinimumLength = 3, ErrorMessage = "Name must be between 3 and 100 characters.")]
+    public string Name { get; set; }
+
+    [Required]
+    [StringLength(50, ErrorMessage = "Genre cannot exceed 50 characters.")]
+    public string Genre { get; set; }
+
+    [Range(0, 1000, ErrorMessage = "Price must be between 0 and 1000.")]
+    public decimal Price { get; set; }
+
+    [Required]
+    [Url(ErrorMessage = "Invalid URL.")]
+    public string ImageUri { get; set; }
+
+    [CustomValidation(typeof(GameValidator), nameof(GameValidator.ValidateReleaseDate))]
+    public DateTime ReleaseDate { get; set; }
+}
+
+public static class GameValidator
+{
+    public static ValidationResult? ValidateReleaseDate(DateTime releaseDate, ValidationContext context)
+    {
+        if (releaseDate > DateTime.Now)
+        {
+            return new ValidationResult("Release date cannot be in the future.");
+        }
+        return ValidationResult.Success;
+    }
+}
+var game = new Game
+{
+    Name = "New Game",
+    Genre = "Action",
+    Price = 50m,
+    ImageUri = "http://example.com",
+    ReleaseDate = DateTime.Now.AddMonths(1) // This would trigger the custom validation
+};
+
+var validationResults = new List<ValidationResult>();
+var context = new ValidationContext(game);
+
+bool isValid = Validator.TryValidateObject(game, context, validationResults, true);
+
+if (!isValid)
+{
+    foreach (var validationResult in validationResults)
+    {
+        Console.WriteLine(validationResult.ErrorMessage);
+    }
+}

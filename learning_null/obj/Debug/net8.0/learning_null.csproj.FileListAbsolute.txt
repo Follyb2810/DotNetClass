@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\bin\Debug\net8.0\learning_null.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\bin\Debug\net8.0\learning_null.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\bin\Debug\net8.0\learning_null.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\bin\Debug\net8.0\learning_null.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\bin\Debug\net8.0\learning_null.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\obj\Debug\net8.0\learning_null.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\obj\Debug\net8.0\learning_null.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\obj\Debug\net8.0\learning_null.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\obj\Debug\net8.0\learning_null.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\obj\Debug\net8.0\learning_null.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\obj\Debug\net8.0\learning_null.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\obj\Debug\net8.0\refint\learning_null.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\obj\Debug\net8.0\learning_null.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\obj\Debug\net8.0\learning_null.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\learning_null\obj\Debug\net8.0\ref\learning_null.dll

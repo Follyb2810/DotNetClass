@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\bin\Debug\net8.0\ValueTypes.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\bin\Debug\net8.0\ValueTypes.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\bin\Debug\net8.0\ValueTypes.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\bin\Debug\net8.0\ValueTypes.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\bin\Debug\net8.0\ValueTypes.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\obj\Debug\net8.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\obj\Debug\net8.0\ValueTypes.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\obj\Debug\net8.0\ValueTypes.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\obj\Debug\net8.0\ValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\obj\Debug\net8.0\ValueTypes.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\obj\Debug\net8.0\ValueTypes.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\obj\Debug\net8.0\refint\ValueTypes.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\obj\Debug\net8.0\ValueTypes.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\obj\Debug\net8.0\ValueTypes.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\ValueTypes\obj\Debug\net8.0\ref\ValueTypes.dll

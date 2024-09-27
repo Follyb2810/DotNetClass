@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\bin\Debug\net8.0\Format.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\bin\Debug\net8.0\Format.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\bin\Debug\net8.0\Format.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\bin\Debug\net8.0\Format.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\bin\Debug\net8.0\Format.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\obj\Debug\net8.0\Format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\obj\Debug\net8.0\Format.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\obj\Debug\net8.0\Format.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\obj\Debug\net8.0\Format.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\obj\Debug\net8.0\Format.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\obj\Debug\net8.0\Format.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\obj\Debug\net8.0\refint\Format.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\obj\Debug\net8.0\Format.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\obj\Debug\net8.0\Format.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\Format\obj\Debug\net8.0\ref\Format.dll

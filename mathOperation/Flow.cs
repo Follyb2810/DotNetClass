@@ -21,6 +21,12 @@ namespace FlowCondition.md
             System.Console.WriteLine("This is a protected method.");
         }
 
+        // Example of a intern method
+        internal void internalFunc()
+        {
+            System.Console.WriteLine("This is a protected method.");
+        }
+
         // Example of a private method
         private void PrivateFunc()
         {

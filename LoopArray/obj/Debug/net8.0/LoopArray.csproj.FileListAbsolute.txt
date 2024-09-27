@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\bin\Debug\net8.0\LoopArray.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\bin\Debug\net8.0\LoopArray.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\bin\Debug\net8.0\LoopArray.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\bin\Debug\net8.0\LoopArray.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\bin\Debug\net8.0\LoopArray.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\obj\Debug\net8.0\LoopArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\obj\Debug\net8.0\LoopArray.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\obj\Debug\net8.0\LoopArray.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\obj\Debug\net8.0\LoopArray.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\obj\Debug\net8.0\LoopArray.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\obj\Debug\net8.0\LoopArray.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\obj\Debug\net8.0\refint\LoopArray.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\obj\Debug\net8.0\LoopArray.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\obj\Debug\net8.0\LoopArray.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\LoopArray\obj\Debug\net8.0\ref\LoopArray.dll

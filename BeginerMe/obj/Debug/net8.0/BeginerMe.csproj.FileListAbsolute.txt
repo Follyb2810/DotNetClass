@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\obj\Debug\net8.0\BeginerMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\obj\Debug\net8.0\BeginerMe.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\obj\Debug\net8.0\BeginerMe.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\obj\Debug\net8.0\BeginerMe.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\obj\Debug\net8.0\BeginerMe.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\bin\Debug\net8.0\BeginerMe.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\bin\Debug\net8.0\BeginerMe.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\bin\Debug\net8.0\BeginerMe.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\bin\Debug\net8.0\BeginerMe.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\bin\Debug\net8.0\BeginerMe.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\obj\Debug\net8.0\BeginerMe.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\obj\Debug\net8.0\refint\BeginerMe.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\obj\Debug\net8.0\BeginerMe.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\obj\Debug\net8.0\BeginerMe.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\BeginerMe\obj\Debug\net8.0\ref\BeginerMe.dll

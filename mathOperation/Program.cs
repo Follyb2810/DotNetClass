@@ -13,6 +13,7 @@ public class Program
     // course.CourseFunc();
     Flow flow = new Flow();
     flow.FlowFunc();
+    flow.internalFunc();
 
 
 }

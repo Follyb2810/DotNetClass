@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iyDUqiuH79tJRb6I+7oQ/PusK9ah9WfTHnwmSjR1uok=",
+  "Source": "FollyWebApi",
+  "BasePath": "_content/FollyWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\bin\Debug\net8.0\WhileDo.exe
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\bin\Debug\net8.0\WhileDo.deps.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\bin\Debug\net8.0\WhileDo.runtimeconfig.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\bin\Debug\net8.0\WhileDo.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\bin\Debug\net8.0\WhileDo.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\obj\Debug\net8.0\WhileDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\obj\Debug\net8.0\WhileDo.AssemblyInfoInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\obj\Debug\net8.0\WhileDo.AssemblyInfo.cs
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\obj\Debug\net8.0\WhileDo.csproj.CoreCompileInputs.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\obj\Debug\net8.0\WhileDo.sourcelink.json
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\obj\Debug\net8.0\WhileDo.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\obj\Debug\net8.0\refint\WhileDo.dll
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\obj\Debug\net8.0\WhileDo.pdb
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\obj\Debug\net8.0\WhileDo.genruntimeconfig.cache
+C:\Users\follyb\Desktop\folly docs\CodeLine\WhileDo\obj\Debug\net8.0\ref\WhileDo.dll

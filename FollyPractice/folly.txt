@@ -1,0 +1,114 @@
+dotnet new webapi -n JwtAuthSample
+cd JwtAuthSample
+dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+dotnet add package Microsoft.IdentityModel.Tokens
+dotnet add package System.IdentityModel.Tokens.Jwt
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+
+public class Startup
+{
+    public void ConfigureServices(IServiceCollection services)
+    {
+        // JWT Authentication
+        var key = Encoding.ASCII.GetBytes("your_secret_key_here");
+        services.AddAuthentication(x =>
+        {
+            x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+            x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+        })
+        .AddJwtBearer(x =>
+        {
+            x.RequireHttpsMetadata = false;
+            x.SaveToken = true;
+            x.TokenValidationParameters = new TokenValidationParameters
+            {
+                ValidateIssuerSigningKey = true,
+                IssuerSigningKey = new SymmetricSecurityKey(key),
+                ValidateIssuer = false,
+                ValidateAudience = false
+            };
+        });
+
+        services.AddControllers();
+    }
+
+    public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+    {
+        app.UseRouting();
+
+        // Add Authentication and Authorization Middleware
+        app.UseAuthentication();
+        app.UseAuthorization();
+
+        app.UseEndpoints(endpoints =>
+        {
+            endpoints.MapControllers();
+        });
+    }
+}
+public class User
+{
+    public string Username { get; set; }
+    public string Password { get; set; }
+}
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+
+[Route("api/[controller]")]
+[ApiController]
+public class AuthController : ControllerBase
+{
+    private readonly string _secretKey = "your_secret_key_here"; // Same key from Startup
+
+    [HttpPost("login")]
+    public IActionResult Login([FromBody] User login)
+    {
+        // In a real app, you should validate the username and password from a database
+        if (login.Username == "testuser" && login.Password == "password123")
+        {
+            var token = GenerateJwtToken(login.Username);
+            return Ok(new { token });
+        }
+        return Unauthorized();
+    }
+
+    private string GenerateJwtToken(string username)
+    {
+        var tokenHandler = new JwtSecurityTokenHandler();
+        var key = Encoding.ASCII.GetBytes(_secretKey);
+        var tokenDescriptor = new SecurityTokenDescriptor
+        {
+            Subject = new ClaimsIdentity(new[]
+            {
+                new Claim(ClaimTypes.Name, username)
+            }),
+            Expires = DateTime.UtcNow.AddHours(1),
+            SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
+        };
+        var token = tokenHandler.CreateToken(tokenDescriptor);
+        return tokenHandler.WriteToken(token);
+    }
+}
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+
+[Route("api/[controller]")]
+[ApiController]
+public class SampleController : ControllerBase
+{
+    [Authorize]
+    [HttpGet("protected")]
+    public IActionResult GetProtectedData()
+    {
+        return Ok("This is a protected data. You are authenticated.");
+    }
+}
+{
+    "username": "testuser",
+    "password": "password123"
+}
